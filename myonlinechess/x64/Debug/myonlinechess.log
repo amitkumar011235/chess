@@ -1,0 +1,147 @@
+﻿  chessgame.cpp
+E:\github_projects\chess\myonlinechess\chessgame.cpp(122,27): error C2065: 'present': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(122,15): error C3861: 'isMoveValid': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(124,3): error C3861: 'createNextMessage': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(125,3): error C2561: 'Game::MakeMove': function must return a value
+E:\github_projects\chess\myonlinechess\chessgame.cpp(7,12): message : see declaration of 'Game::MakeMove'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(197,32): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(202,13): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(205,33): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(259,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(268,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(296,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(310,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(316,43): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(316,60): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(316,79): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(319,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(319,59): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(326,29): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(326,44): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(326,64): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(326,82): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(329,17): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(329,59): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(340,21): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(340,37): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(340,63): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(340,81): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(346,26): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(346,45): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(346,74): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(346,89): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(352,35): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(352,50): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(352,77): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(352,95): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(358,26): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(358,42): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(358,68): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(358,86): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(363,25): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(369,26): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(369,68): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(376,24): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(376,42): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(379,30): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(379,60): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(379,84): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(379,91): error C3861: 'getPieceColor': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(381,21): error C3861: 'createNextMessage': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(387,21): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(387,57): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(387,93): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(387,107): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(387,120): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(394,49): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(394,64): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(395,49): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(395,67): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(398,48): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(398,62): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(399,48): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(399,66): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(408,30): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(408,60): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(408,85): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(408,92): error C3861: 'getPieceColor': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(410,21): error C3861: 'createNextMessage': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(416,21): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(416,57): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(416,93): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(416,107): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(416,120): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(423,49): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(423,64): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(424,49): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(424,67): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(427,48): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(427,62): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(428,48): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(428,66): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(456,9): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(456,47): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(456,60): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(458,27): error C2065: 'current_game': undeclared identifier
+E:\github_projects\chess\myonlinechess\chessgame.cpp(458,67): error C2039: 'iRow': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(458,80): error C2039: 'iColumn': is not a member of 'Position'
+E:\github_projects\chess\myonlinechess\common.hpp(15,7): message : see declaration of 'Position'
+E:\github_projects\chess\myonlinechess\chessgame.cpp(459,13): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(459,20): error C3861: 'getPieceColor': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(459,46): error C2653: 'Chess': is not a class or namespace name
+E:\github_projects\chess\myonlinechess\chessgame.cpp(459,53): error C3861: 'getPieceColor': identifier not found
+E:\github_projects\chess\myonlinechess\chessgame.cpp(469,17): error C2065: 'current_game': undeclared identifier
+  chessmanager.cpp
+  gameboard.cpp
+E:\github_projects\chess\myonlinechess\gameboard.cpp(164,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  main.cpp
+  Generating Code...
+E:\github_projects\chess\myonlinechess\gameboard.cpp(165): error C4716: 'GameBoard::GetPieceAtPosition': must return a value
